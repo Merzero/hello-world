@@ -1,4 +1,6 @@
 # hello-world
-First repository
 
-I defied Gods and Demonds. I am your shield, I am your sword.
+Hi Humans!
+
+Hubot here, I like Node.js and Coffeescript (that's what I'm made of!).
+I've had tacos on the moon and find them far superior to Earth tacos.
